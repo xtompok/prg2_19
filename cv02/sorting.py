@@ -1,7 +1,7 @@
 import random
 
 def random_list(n):
-    return [random.randrange(0,1000) for _ in range(n)]
+    return [chr(random.randrange(65,65+26)) for _ in range(n)]
 
 
 # Sort list using select sort
