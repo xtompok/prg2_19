@@ -15,3 +15,15 @@
   - složitost a třídění
     - Óčková notace
     - Select sort - úvod
+
+## 3. cvičení
+  - select sort - dokončení
+  - proč nejde tradičními algoritmy třídit rychleji než O(n\*log n)
+  - quick sort
+    - analýza složitosti
+    - prohazovací funkce
+
+## 4. cvičení (plán)
+  - quick sort - dokončení
+  - dynamické datové struktury - úvod
+    
