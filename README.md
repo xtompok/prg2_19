@@ -46,4 +46,5 @@ kratší než standardní přednáška, ale mělo by jich být více.
 
 
 ## Poznámky ze cvičení
-
+Protože se budou cvičení konat jen virtuálně, vytvořte si repozitář ke cvičení,
+kde budete mít své zdrojáky a pošlete mi odkaz, ať vám mohu případně radit.  
