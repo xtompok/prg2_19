@@ -23,6 +23,13 @@
     - analýza složitosti
     - prohazovací funkce
 
+## 1. přednáška o Qt
+  - událostmi řízené programování
+  - knihovna Qt
+  - instalace PySide2 a aktualizace Pythonu3
+  - jednoduchá aplikace v QML
+  - signály a sloty - princip
+
 ## 4. cvičení (plán)
   - quick sort - dokončení
   - dynamické datové struktury - úvod
