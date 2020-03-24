@@ -43,6 +43,9 @@ kratší než standardní přednáška, ale mělo by jich být více.
      - zkuste si, zda vám příklady fungují a chovají se dle popisu
      - zkuste příklady nějak pozměnit (změnit ukotvení, barvu, velikost) a
        zjistěte, jak se chovají
+ - [Tutoriál Python a QML](https://github.com/xtompok/PySide2_QML_tutorial)
+     - píšu ho já
+     - postupně se tam budou objevovat příklady k jednotlivým screencastům a naopak
 
 
 ## Poznámky ze cvičení
